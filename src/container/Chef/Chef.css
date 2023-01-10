@@ -41,11 +41,22 @@
        
     }
 }
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 390px) {
     .app__chef-sign img {
         width: 80%;
              
     }
+
+    .app__wrapper_img-reverse img {
+        width: 80%;
+    }
     
     
+}
+@media screen and (max-width: 768px) {
+    .app__wrapper_img-reverse img {
+        width: 80%;
+    }
+    
+
 }
