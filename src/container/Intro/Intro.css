@@ -1,6 +1,7 @@
 .app__video {
     height: 100vh;
     position: relative;
+    background: black;
 
 }
 .app__video video {
@@ -22,4 +23,10 @@
    }
 .icon {
   margin:33px;
+}
+@media screen and (min-width:390px) {
+    .app__video{
+        padding: 2rem;
+    }
+    
 }
