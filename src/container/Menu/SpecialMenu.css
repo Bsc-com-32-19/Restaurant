@@ -72,9 +72,15 @@
 }
 @media screen and (max-width: 650px) {
 
-    .app__specialMenu-menu_img {
+    .app__specialMenu-menu_img  {
         width: 100%;
     }
+
+    .app__specialMenu-menu_img img {
+        height: 500px;
+
+    }
+    
     .app__specialMenu-menu_heading {
         font-size: 30px;
         line-height: 48.5px;
