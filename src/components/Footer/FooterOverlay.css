@@ -8,11 +8,8 @@
     position: absolute;
 }
 .app__footerOverlay-black {
-    height: 25%;
     background: var(--color-black);
     margin: 4rem;
 }
-.app__footerOverlay-img {
-    height: 75%;
-}
+
 
