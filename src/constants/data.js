@@ -3,27 +3,27 @@ import images from './images';
 const wines = [
   {
     title: 'Chapel Hill Shiraz',
-    price: '$56',
+    price: 'Mwk56000',
     tags: 'AU | Bottle',
   },
   {
     title: 'Catena Malbee',
-    price: '$59',
+    price: 'Mwk59000',
     tags: 'AU | Bottle',
   },
   {
     title: 'La Vieillw Rose',
-    price: '$44',
+    price: 'Mwk44000',
     tags: 'FR | 750 ml',
   },
   {
     title: 'Rhino Pale Ale',
-    price: '$31',
+    price: 'Mwk31000',
     tags: 'CA | 750 ml',
   },
   {
     title: 'Irish Guinness',
-    price: '$26',
+    price: 'Mwk26000',
     tags: 'IE | 750 ml',
   },
 ];
@@ -31,27 +31,27 @@ const wines = [
 const cocktails = [
   {
     title: 'Aperol Sprtiz',
-    price: '$20',
+    price: 'Mwk20000',
     tags: 'Aperol | Villa Marchesi prosecco | soda | 30 ml',
   },
   {
     title: "Dark 'N' Stormy",
-    price: '$16',
+    price: 'Mwk16000',
     tags: 'Dark rum | Ginger beer | Slice of lime',
   },
   {
     title: 'Daiquiri',
-    price: '$10',
+    price: 'Mwk10000',
     tags: 'Rum | Citrus juice | Sugar',
   },
   {
     title: 'Old Fashioned',
-    price: '$31',
+    price: 'Mwk31000',
     tags: 'Bourbon | Brown sugar | Angostura Bitters',
   },
   {
     title: 'Negroni',
-    price: '$26',
+    price: 'Mwk26000',
     tags: 'Gin | Sweet Vermouth | Campari | Orange garnish',
   },
 ];
