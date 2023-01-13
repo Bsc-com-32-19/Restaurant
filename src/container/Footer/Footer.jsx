@@ -24,7 +24,7 @@ const Footer = () => (
         <p className='P__opensans'>"The best way to find yourself is to loose yourself in the service of others."</p>
         <img src={images.spoon} alt="spoon" className='spoon__img' style={{marginTop: '15 '}} />
         <div className='app__footer-links_icons'>
-          <FiFacebook/>
+          <FiFacebook />
           <FiTwitter/>
           <FiInstagram/>
         </div>
@@ -42,7 +42,7 @@ const Footer = () => (
 
     </div>
     <div className='footer__copyright'>
-      <p className='P__opensans'>2023 Mimie. All Rights reserved.</p>
+      <p className='P__opensans'>2023 Mimie. All Rights Reserved.</p>
 
     </div>
 
