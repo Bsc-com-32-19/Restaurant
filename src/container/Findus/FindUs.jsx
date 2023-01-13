@@ -7,7 +7,7 @@ import './Findus.css';
 const FindUs = () => (
   <div className='app__bg__wrapper section__padding' id='Contact'>
     <div className='app__wrapper_info'>
-    <SubHeading title="Contacts" />
+    <SubHeading title="Contact" />
     <h1 className='headtext__cormorant' style={{ marginBottom: '3rem' }}>Find Us</h1>
     <div className='app__wrapper-content'>
       <p className='P-opensans'>Close to Steers in Zomba town . The name of  "THE BEST OF ALL" . And at the second floor of that bulding the first room that's it.</p>
